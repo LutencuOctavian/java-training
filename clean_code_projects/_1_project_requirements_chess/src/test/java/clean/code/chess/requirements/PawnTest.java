@@ -1,5 +1,9 @@
 package clean.code.chess.requirements;
 
+import clean.code.chess.requirements.chess.ChessBoard;
+import clean.code.chess.requirements.chess.piece.MovementType;
+import clean.code.chess.requirements.chess.piece.Pawn;
+import clean.code.chess.requirements.chess.piece.PieceColor;
 import org.junit.Before;
 import org.junit.Test;
 
